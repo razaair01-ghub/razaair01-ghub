@@ -1,44 +1,162 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Mohd Raza</h1>
-<h3 align="center">I am a Data Analyst | Python • SQL • Power BI • Excel • Tableau | Data Cleaning, EDA & Dashboards | Machine Learning Beginner | Data Visualization | ETL | Turning Raw Data Into Business Insights | Ai enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razaair01-ghub&label=Profile%20views&color=0e75b6&style=flat" alt="razaair01-ghub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razaair01-ghub" alt="razaair01-ghub" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/razaair01" target="blank"><img src="https://img.shields.io/twitter/follow/razaair01?logo=twitter&style=for-the-badge" alt="razaair01" /></a> </p>
-
-- 🌱 I’m currently learning **machine learning,Ai,frontend,n8n automation,Dockern etc.**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohd-raza-913990258/](https://www.linkedin.com/in/mohd-raza-913990258/)
-
-- 📫 How to reach me **razaair01@gmail.com**
-- 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/razaair01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razaair01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-raza-913990258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-raza-913990258/" height="30" width="40" /></a>
-<a href="https://kaggle.com/raza0100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raza0100" height="30" width="40" /></a>
-<a href="https://instagram.com/@_raza_07_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_raza_07_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@razaair01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@razaair01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sa" height="30" width="40" /></a>
+<!-- Animated Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DA1F2&height=220&section=header&text=Mohd%20Raza&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+👋+Welcome+to+My+Profile;Data+Analyst;AI+Automation+Engineer;Gold+Medalist+Graduate;Building+Scalable+AI+Systems" />
+</p>
 
-<h3 align="left">Data Visualisation tools:</h3>
- <img src="https://img.icons8.com/color/48/power-bi.png" width="32"/><img src="https://img.icons8.com/color/48/tableau-software.png" width="32"/> 
+<p align="center">
+  <img src="https://img.shields.io/badge/Gold%20Medalist-Graduate-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-SQL%20%7C%20Python%20%7C%20BI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Automation%20Infrastructure-black?style=for-the-badge"/>
+</p>
 
+---
 
+# 👨‍💻 About Me
 
+- 🥇 Gold Medalist B.Tech Graduate (Mechanical Engineering)
+- 📊 Data Analyst specializing in SQL, Python & Business Intelligence
+- 🤖 AI Automation & Infrastructure Builder
+- 🧠 Focused on scalable AI systems & real-world monetization
+- 🚀 I build deployable systems — not just academic projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razaair01-ghub&show_icons=true&locale=en&layout=compact" alt="razaair01-ghub" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razaair01-ghub&show_icons=true&locale=en" alt="razaair01-ghub" /></p>
+# 📊 Data Analyst Projects
 
+## 🔹 Sales & Revenue Intelligence Dashboard
+- End-to-end analysis using SQL + Power BI  
+- Built KPI dashboards for performance tracking  
+- Identified top-performing regions & revenue drivers  
 
+## 🔹 Customer Segmentation & EDA
+- Python (Pandas, NumPy, Seaborn)  
+- Data cleaning & feature engineering  
+- Segmentation logic for marketing optimization  
 
+## 🔹 SQL Business Case Study
+- Advanced joins & window functions  
+- Query optimization & performance tuning  
+- Business KPI extraction from raw datasets  
 
+## 🔹 Automated ETL Pipeline
+- Python-based preprocessing pipeline  
+- Missing value handling & outlier treatment  
+- Structured dataset preparation for ML  
+
+---
+
+# 🤖 AI Infrastructure & Automation Systems
+
+## 🏠 Real Estate AI Infrastructure System
+- Automated lead scraping & qualification  
+- AI-based personalization engine  
+- Outreach automation workflows  
+- CRM-style tracking pipeline  
+
+## 🧠 AI Personalization Engine
+- Context-aware message generation  
+- Dynamic AI response logic  
+- API-driven automation  
+
+## 🏭 AI Content Machine
+- SEO-structured AI content generation  
+- Batch publishing workflows  
+- Multi-platform automation  
+
+---
+
+# 🧩 Python-Based Applications
+
+- 🌐 AI Website Builder  
+- 📄 AI Resume Builder  
+- 📑 Docs & PDF Generator (Pure Python Engine)  
+- 📊 Data Dashboard Systems  
+- 🔄 API-Based Automation Tools  
+
+---
+
+# 🛠 Tech Stack
+
+## 👨‍💻 Programming & Data
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+</p>
+
+---
+
+## 📊 Data Visualization & BI
+
+<p>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/>
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="45"/>
+</p>
+
+---
+
+## ⚙️ Automation & Infrastructure
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" width="45"/>
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=razaair01-ghub&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razaair01-ghub&theme=tokyonight" />
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- Advanced Machine Learning  
+- AI Agents & LLM Systems  
+- Scalable Backend Architecture  
+- Automation Infrastructure Engineering  
+- Production-Ready Data Pipelines  
+- AI Monetization Models  
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/mohd-raza-913990258/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/razaair01">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://kaggle.com/raza0100">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+<a href="mailto:razaair01@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  🚀 Building Data-Driven AI Systems That Automate, Scale & Create Impact.
+</p>
