@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,50:2563EB,100:7C3AED&height=250&section=header&text=Mohd%20Raza&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,50:2563EB,100:7C3AED&height=250&section=header&text=Raza&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <!-- Animated Professional Identity -->
